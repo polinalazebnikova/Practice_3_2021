@@ -28,6 +28,6 @@
 
 [2.2 Разработать инструкцию «Первая медицинская помощь при электротравме на рабочем месте программиста».](https://github.com/polinalazebnikova/Practice_3_2021/tree/main/2.2)
 
-[2.3 ](https://github.com/polinalazebnikova/Practice_3_2021/tree/main/2.3)
+[2.3 Изучить прикладное программное обеспечение информационно-вычислительной системы предприятия (организации).](https://github.com/polinalazebnikova/Practice_3_2021/tree/main/2.3)
 
 [2.4 Изучить технические средства информационно-вычислительной системы предприятия (организации).](https://github.com/polinalazebnikova/Practice_3_2021/tree/main/2.4)
